@@ -1,0 +1,15 @@
+[submodule "MITgcm"]
+	path = MITgcm
+	url = https://github.com/anjalivb72/MITgcm.git
+[submodule "temp_totten"]
+	path = temp_totten
+	url = https://github.com/anjalivb72/temp_totten
+[submodule "totten_v20260818_briar"]
+	path = totten_v20260818_briar
+	url = https://github.com/anjalivb72/totten_v20260818_briar
+[submodule "totten_v20260818_prelim"]
+	path = totten_v20260818_prelim
+	url = https://github.com/anjalivb72/totten_v20260818_prelim
+[submodule "totten_v20260818_core"]
+	path = totten_v20260818_core
+	url = https://github.com/anjalivb72/totten_v20260818_core
